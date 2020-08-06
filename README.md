@@ -3,7 +3,7 @@
 
 ### `( FUNCTION: handler )`
 
-- handles initilizing and completion of task
+- handles initilizing and completion of tasks
 
 <br/>
 
@@ -18,13 +18,12 @@
 
 ### `( FUNCTION: Create_Image )`
 
-- creates and image to a temporary location
+- creates an image to a temporary location
 
 <br/>
 
 
 ### `( FUNCTION: Image_To_S3 )`
 
-- move image from temp location to S3 bucket
+- moves image from temporary location to S3 bucket
 
-<br/># ffmpeg-create-thumbnail
