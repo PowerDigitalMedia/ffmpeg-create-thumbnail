@@ -7,7 +7,6 @@
 Multi function document that creates a thumbnail from a video. After the create action the thumbnail is uploaded to Amazon S3 bucket
 
 
-<br/>
 
 #### `( FUNCTION: handler )`
 
