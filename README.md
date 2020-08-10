@@ -1,29 +1,30 @@
 
-# FFMpeg
+# FFMpeg - Create Thumbnail
 
-### `( FUNCTION: handler )`
 
-- handles initilizing and completion of tasks
+## Description
+
+Multi function document that creates a thumbnail from a video. After the create action the thumbnail is uploaded to Amazon S3 bucket
+
 
 <br/>
 
+#### `( FUNCTION: handler )`
 
-### `( FUNCTION: flow )`
+* handles initilizing and completion of tasks
 
-- async function that controls the procesing of functions
+#### `( FUNCTION: flow )`
 
-<br/>
-
-
-
-### `( FUNCTION: Create_Image )`
-
-- creates an image to a temporary location
-
-<br/>
+* async function that controls the procesing of functions
 
 
-### `( FUNCTION: Image_To_S3 )`
+#### `( FUNCTION: Create_Image )`
 
-- moves image from temporary location to S3 bucket
+* creates an image to a temporary location
+
+
+#### `( FUNCTION: Image_To_S3 )`
+
+* moves image from temporary location to S3 bucket
+
 
