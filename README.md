@@ -4,7 +4,7 @@
 
 ## Description
 
-Multi function document that creates a thumbnail from a video. After the create action the thumbnail is uploaded to Amazon S3 bucket
+Multi function document that creates a thumbnail from a video using FFMpeg. After the create action the thumbnail is uploaded to Amazon S3 bucket. 
 
 
 
